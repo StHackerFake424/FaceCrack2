@@ -62,7 +62,7 @@ $ python2 Facecrack2.py
 ```
 # [ Screenshot ]
 
-<img src=![Screenshot_2020-08-2001](https://user-images.githubusercontent.com/66360838/87925905-c8c3a880-caa2-11ea-942b-f64df2aa4ffb.jpg)
+<img src=![Screenshot_2020-08-2001](https://user-images.githubusercontent.com/66360838/88883431-23ed5c00-d256-11ea-847b-17128b93e2de.jpg)
 
 <img src=![Screenshot_2020-08-2002](https://user-images.githubusercontent.com/66360838/87925986-e133c300-caa2-11ea-9b5b-b0574603bf1a.jpg)
 
